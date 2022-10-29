@@ -10003,7 +10003,7 @@ Vá para Configurações de mapa no seu perfil de atividade para ver todas as op
     </str>
     <str>
         <tag>TXT_Notification_Forming_Light_Network_STR_T</tag>
-        <txt>Formando rede leve</txt>
+        <txt>Formando rede de luz</txt>
     </str>
     <str>
         <tag>TXT_Notification_Found_STR_T</tag>
@@ -10067,7 +10067,7 @@ Vá para Configurações de mapa no seu perfil de atividade para ver todas as op
     </str>
     <str>
         <tag>TXT_Notification_Light_Network_Formed_STR_T</tag>
-        <txt>Rede leve formada</txt>
+        <txt>Rede de luz formada</txt>
     </str>
     <str>
         <tag>TXT_Notification_Livetrack_Auto_Start_Failed_STR_T</tag>
@@ -14898,7 +14898,7 @@ Definir ângulos de instalação agora?</txt>
     </str>
     <str>
         <tag>TXT_SETUP_BIKE_LIGHT_Light_Network_STR_M</tag>
-        <txt>Rede leve</txt>
+        <txt>Rede de luz</txt>
     </str>
     <str>
         <tag>TXT_SETUP_BIKE_LIGHT_Light_Settings_STR_M</tag>
